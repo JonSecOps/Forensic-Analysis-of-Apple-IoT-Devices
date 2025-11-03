@@ -26,3 +26,5 @@ This project simulated a realistic forensic workflow for IoT ecosystems, emphasi
 4. Evidence Documentation & Reporting – Presenting findings with screenshots and structured analytical documentation.
 5. Technical Analysis of Apple Ecosystem – Understanding WatchOS, tvOS, HomePodOS, and HomeKit data architecture.
 6. Critical Thinking & Problem-Solving – Interpreting incomplete datasets and deriving meaningful forensic conclusions.
+
+https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices-Apple-Watch-Analysis/blob/main/FORENSIC%20ANALYSIS%20OF%20APPLE%20IOT%20DEVICES.pdf

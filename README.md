@@ -20,11 +20,11 @@ This project simulated a realistic forensic workflow for IoT ecosystems, emphasi
 
 **Key Skills Developed**
 
-1. Digital Forensics & Incident Analysis – Performing artifact recovery and evidence interpretation from IoT devices.
-2. Tool Proficiency – Hands-on use of ArtExaminer, iLEAPP, and DB Browser for SQLite for forensic investigation.
-3. Data Correlation & Timeline Reconstruction – Linking events across devices to establish user activity patterns.
-4. Evidence Documentation & Reporting – Presenting findings with screenshots and structured analytical documentation.
-5. Technical Analysis of Apple Ecosystem – Understanding WatchOS, tvOS, HomePodOS, and HomeKit data architecture.
-6. Critical Thinking & Problem-Solving – Interpreting incomplete datasets and deriving meaningful forensic conclusions.
+1. **Digital Forensics & Incident Analysis** – Performing artifact recovery and evidence interpretation from IoT devices.
+2. **Tool Proficiency** – Hands-on use of ArtExaminer, iLEAPP, and DB Browser for SQLite for forensic investigation.
+3. **Data Correlation & Timeline Reconstruction** – Linking events across devices to establish user activity patterns.
+4. **Evidence Documentation & Reporting** – Presenting findings with screenshots and structured analytical documentation.
+5. **Technical Analysis of Apple Ecosystem** – Understanding WatchOS, tvOS, HomePodOS, and HomeKit data architecture.
+6. **Critical Thinking & Problem-Solving** – Interpreting incomplete datasets and deriving meaningful forensic conclusions.
 
 https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices-Apple-Watch-Analysis/blob/main/FORENSIC%20ANALYSIS%20OF%20APPLE%20IOT%20DEVICES.pdf
